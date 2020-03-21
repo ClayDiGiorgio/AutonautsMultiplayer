@@ -15,6 +15,10 @@ function CreateConnection()
 	end
 
 	-- create a connection and save it in connection
+	if()
+	then
+		return
+	end
 end
 
 function Creation()
@@ -48,4 +52,9 @@ function OnUpdate()
 
 	-- do your valid changes
 
+end
+
+-- THIS FUNCTIONALITY DOESN'T EXIST IN THE MOD API, DON'T FORGET TO ADD IT CLAY :)
+function OnShutdown()
+	--Close the connection if it's open
 end
