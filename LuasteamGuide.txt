@@ -1,0 +1,4 @@
+To use luasteam properly, copy paste the correct .dll file into AutonautsMultiplayer/ and rename it
+to "luasteam.dll"
+
+and here's the docs: https://luasteam.readthedocs.io/en/stable/index.html
